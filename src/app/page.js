@@ -611,7 +611,7 @@ export default function Home() {
                 <div className="contact-card-icon">📧</div>
                 <div className="contact-card-label">Email</div>
                 <div className="contact-card-value">
-                  hariharan.vs2024anu@svu.ac.in
+                  hariharan.vs2024aiml@sece.ac.in
                 </div>
               </a>
 
@@ -644,7 +644,7 @@ export default function Home() {
               </a>
             </div>
 
-            <a href="mailto:hariharan.vs2024anu@svu.ac.in" className="btn-primary">
+            <a href="mailto:hariharan.vs2024aiml@sece.ac.in" className="btn-primary">
               📬 Send me an Email
             </a>
           </div>
