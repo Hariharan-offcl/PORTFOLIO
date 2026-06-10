@@ -80,7 +80,7 @@ export default function Home() {
           <div className="hero-image-wrapper">
             <div className="hero-image-ring">
               <img
-                src="/profile.jpg"
+                src="/Hari.jpeg"
                 alt="Hariharan V S"
                 className="hero-image"
                 width={312}
